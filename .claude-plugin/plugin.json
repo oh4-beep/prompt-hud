@@ -1,0 +1,9 @@
+{
+  "name": "prompt-hud",
+  "version": "0.1.0",
+  "description": "A live bar above the prompt: usage limits, context percentage, and an estimate of the time left on the current task.",
+  "author": {
+    "name": "oh4-beep"
+  },
+  "types": "./types/index.d.ts"
+}

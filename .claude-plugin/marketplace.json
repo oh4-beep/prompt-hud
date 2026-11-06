@@ -1,0 +1,5 @@
+{
+  "name": "prompt-hud",
+  "owner": { "name": "oh4-beep" },
+  "plugins": [{ "name": "prompt-hud", "source": "./" }]
+}
